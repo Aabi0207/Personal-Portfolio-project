@@ -35,6 +35,8 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 .modal-close::before, .delete::before { height: 2px; width: 50%; }
 
+.git-and-linkedin-icons {  margin-top: 100px; margin-bottom: 100px; margin-right: 150px; margin-left: 80px;}
+
 .modal-close::after, .delete::after { height: 50%; width: 2px; }
 
 .modal-close:hover, .delete:hover, .modal-close:focus, .delete:focus { background-color: rgba(10, 10, 10, 0.3); }
